@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🧠 MyArchiveProjects
 
-<!--
-**MyArchiveProjects/MyArchiveProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I suck at Python, JS, C++, Java, Bash and more. Still building random stuff that sometimes works.  
+> I don’t care. It’s fun. That’s enough.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ About me
+
+- 💻 Just a guy who makes weird projects
+- 🔥 Coding with 1% logic, 99% chaos
+- 🐧 Linux-friendly but crashes everywhere
+- 📦 Proud Ctrl+C / Ctrl+V engineer
+- 💡 Ideas > Syntax
+
+---
+
+## 🧪 My Vibe
+
+```txt
+[+] Write code
+[!] Break everything
+[?] Google it
+[+] Somehow it works
